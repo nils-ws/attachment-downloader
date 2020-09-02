@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "atob": "^2.1.2",
-    "googleapis": "^38.0.0",
+    "googleapis": "^39.1.0",
     "inquirer": "^6.2.1",
     "moment": "^2.24.0",
     "moment-timezone": "^0.5.23",
