@@ -16,7 +16,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dmarc": "node index.js --label DMAR-Reports"
   },
   "repository": {
     "type": "git",
@@ -39,5 +40,7 @@
     "url": "https://github.com/munir131/attachment-downloader/issues"
   },
   "homepage": "https://github.com/munir131/attachment-downloader#readme",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  }
 }
